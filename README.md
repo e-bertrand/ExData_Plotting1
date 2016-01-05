@@ -3,7 +3,7 @@
 This assignment uses data from
 the <a href="http://archive.ics.uci.edu/ml/">UC Irvine Machine
 Learning Repository</a>, a popular repository for machine learning
-datasets. In particular, we will be using the "Individual household
+datasets. In particular, we will be   using the "Individual household
 electric power consumption Data Set" which I have made available on
 the course web site:
 
@@ -23,7 +23,7 @@ web site</a>:
 
 <ol>
 <li><b>Date</b>: Date in format dd/mm/yyyy </li>
-<li><b>Time</b>: time in format hh:mm:ss </li>
+<li><b>Time</b>: Time in format hh:mm:ss </li>
 <li><b>Global_active_power</b>: household global minute-averaged active power (in kilowatt) </li>
 <li><b>Global_reactive_power</b>: household global minute-averaged reactive power (in kilowatt) </li>
 <li><b>Voltage</b>: minute-averaged voltage (in volt) </li>
